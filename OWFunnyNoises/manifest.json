@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "OWFunnyNoises.dll",
+  "author": "Atakku",
+  "name": "Funny Noises",
+  "uniqueName": "Atakku.OWFunnyNoises",
+  "version": "0.0.1",
+  "owmlVersion": "2.8.0",
+  "dependencies": []
+}
