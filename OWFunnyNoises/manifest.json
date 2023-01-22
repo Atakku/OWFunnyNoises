@@ -4,7 +4,7 @@
   "author": "Atakku",
   "name": "Funny Noises",
   "uniqueName": "Atakku.FunnyNoises",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "owmlVersion": "2.8.0",
   "dependencies": []
 }
